@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Description
 
 A simple portfolio template for developer/designers built with React. 
@@ -36,3 +37,6 @@ Modify pages content in  `src/content_option.js`.
 ### Thanks
 
 If you like this portfolio template don't forget give it a ⭐ 
+=======
+# MyPortfolio
+>>>>>>> 773801f88bd005d0433de0b2017876e25be34550
